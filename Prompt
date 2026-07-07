@@ -1,0 +1,17 @@
+Right side: pulsing avatar initials with 3 expanding ripple rings
+All of these animations are required:
+Loading screen that fades out on page load
+Custom glowing cursor with trailing ring
+Live particle network canvas in the background
+Hero name shimmer gradient text
+3D floating card with continuous rotation animation
+Scroll reveal on all sections (fade up, slide left, slide right) via IntersectionObse. 'ver
+Skill bars animate only when scrolled into
+Infinite marquee for any companies or clients mentioned
+Project cards with top-border gradient sweep on hover
+Pulsing ripple rings on the contact section
+Technical requirements:
+Pure HTML, CSS, JavaScript only - no frameworks, no external JS libraries
+All animations via CSS keyframes and vanilla JS
+Fully responsive - mobile stacks to single column
+Everything in one single.html file ready to open in any browser and aslo add my new projects
