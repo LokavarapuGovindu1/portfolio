@@ -1,0 +1,8 @@
+# No dependencies required.
+#
+# This portfolio is built with pure HTML, CSS, and vanilla JavaScript —
+# no frameworks, build tools, or package managers are needed.
+#
+# To run it locally, just open index.html directly in any browser,
+# or serve the folder with a simple static server, e.g.:
+#   python3 -m http.server 8000

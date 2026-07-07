@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories (in case tooling is added later)
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Build output (in case a bundler is added later)
+dist/
+build/
+
+# Vercel
+.vercel
